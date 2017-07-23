@@ -26,7 +26,7 @@ public class Animal {
 }
 ```
 
-## 使用jclasslib bytecode reviewer 查看class文件
+## 使用jclasslib bytecode viewer 查看class文件
 
 ![](pics/1.jpg)
 
